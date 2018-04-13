@@ -6,7 +6,7 @@ import java.awt.event.MouseAdapter;
 import java.awt.event.MouseEvent;
 import java.awt.geom.GeneralPath;
 
-public class Main {
+public class Graph {
 
     public static void main(String[] args) {
         MainFrame mainFrame = new MainFrame();
